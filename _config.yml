@@ -12,3 +12,7 @@ color:
     - '#375D81'
     - '#183152'
 name: SteveGW - Game Art
+navigation:
+  - name: Home
+    url: 'http://stevegw.today'
+    type: external
