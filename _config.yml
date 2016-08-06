@@ -1,17 +1,27 @@
+name: SteveGW - Game Art
 layout_spectrum: 0.39023244148120284
 typography_spectrum: 0.9844573240261525
+opengraph:
+  type: ''
+  appId: ''
 color:
-  brandStrength: 0.13517180853523314
-  lightness: 0.07247491902671754
-  saturation: 0.5629272130317986
-  rhythmicContrast: 0.3230636832304299
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-name: SteveGW - Game Art
+  brandStrength: 0.13517180853523314
+  lightness: 0.07247491902671754
+  saturation: 0.5629272130317986
+  rhythmicContrast: 0.3230636832304299
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
 navigation:
   - name: Home
     url: 'http://stevegw.today'
