@@ -4,7 +4,7 @@
         <description><![CDATA[SteveGW - Game Art]]></description>
         <link>https://thegrid.ai/stevegw-game-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 04:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 04:30:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-game-art/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Energy Gatherer]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sat, 06 Aug 2016 04:28:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Color Red]]></title>
+            <description><![CDATA[<article><h1>The Color Red</h1><p>The Color Red : As with the Color blue this was first developed on a large sheet of paper using pastels. This was harder to get than the blue.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5503ba8a-ccdd-420c-94aa-594a48625774.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stevegw-game-art/29a7f0fd-667c-4a65-8d26-0ec94f7571b7/index.html</link>
+            <guid isPermaLink="false">29a7f0fd-667c-4a65-8d26-0ec94f7571b7</guid>
+            <pubDate>Sat, 06 Aug 2016 04:30:07 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Color Blue]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ae450e5-72dc-485c-84f9-bcd88a2e8dac.jpg" alt="The Color Blue - I worked this design from a couple large pastel drawings that explored the view angle. A lot of fun working this.">]]></description>
             <link>https://thegrid.ai/stevegw-game-art/1a0fb3e9-85b3-421c-a186-e7e72e5a0c96/index.html</link>
             <guid isPermaLink="false">1a0fb3e9-85b3-421c-a186-e7e72e5a0c96</guid>
             <pubDate>Sat, 06 Aug 2016 04:27:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Color Red]]></title>
-            <description><![CDATA[<article><h1>The Color Red</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5503ba8a-ccdd-420c-94aa-594a48625774.jpg"></article>]]></description>
-            <link>https://thegrid.ai/stevegw-game-art/29a7f0fd-667c-4a65-8d26-0ec94f7571b7/index.html</link>
-            <guid isPermaLink="false">29a7f0fd-667c-4a65-8d26-0ec94f7571b7</guid>
-            <pubDate>Sat, 06 Aug 2016 03:46:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
