@@ -4,8 +4,15 @@
         <description><![CDATA[SteveGW - Game Art]]></description>
         <link>https://thegrid.ai/stevegw-game-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 03:46:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 03:47:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/stevegw-game-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Energy Gatherer]]></title>
+            <description><![CDATA[<article><h1>The Energy Gatherer</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5451d59-4deb-489d-8685-01ba44911258.jpg"></article>]]></description>
+            <link>https://thegrid.ai/stevegw-game-art/3178aafd-f808-4248-8a2e-11941751e004/index.html</link>
+            <guid isPermaLink="false">3178aafd-f808-4248-8a2e-11941751e004</guid>
+            <pubDate>Sat, 06 Aug 2016 03:47:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Color Red]]></title>
             <description><![CDATA[<article><h1>The Color Red</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5503ba8a-ccdd-420c-94aa-594a48625774.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/stevegw-game-art/1a0fb3e9-85b3-421c-a186-e7e72e5a0c96/index.html</link>
             <guid isPermaLink="false">1a0fb3e9-85b3-421c-a186-e7e72e5a0c96</guid>
             <pubDate>Sat, 06 Aug 2016 03:46:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5451d59-4deb-489d-8685-01ba44911258.jpg">]]></description>
-            <link>https://thegrid.ai/stevegw-game-art/3178aafd-f808-4248-8a2e-11941751e004/index.html</link>
-            <guid isPermaLink="false">3178aafd-f808-4248-8a2e-11941751e004</guid>
-            <pubDate>Sat, 06 Aug 2016 03:43:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
