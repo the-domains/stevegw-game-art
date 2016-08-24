@@ -1,6 +1,5 @@
-typography_spectrum: 0.9844573240261525
-content_rating:
-  adult: false
+layout_spectrum: 0.23052027355879545
+typography_spectrum: 0.30847795167937875
 color:
   brandColors:
     - '#E1E6FA'
@@ -12,10 +11,11 @@ color:
   lightness: 0.07247491902671754
   saturation: 0.5629272130317986
   rhythmicContrast: 0.3230636832304299
+content_rating:
+  adult: false
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.39023244148120284
 author:
   name: ''
   url: ''
